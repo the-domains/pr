@@ -1,0 +1,28 @@
+name: pr
+favicon: null
+layout_spectrum: 0.748515548883006
+typography_spectrum: 0.5979280127212405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9213596910703927
+  lightness: 0.10857825516723096
+  saturation: 0.08861453598365188
+  rhythmicContrast: 0.16038897284306586
+purpose: []
